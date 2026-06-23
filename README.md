@@ -1,15 +1,53 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=140&section=header"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+%C4%90%E1%BB%A9c;Backend+Developer;Laravel+%7C+PHP+%7C+Vue.js;Building+awesome+web+apps)](https://git.io/typing-svg)
+# 👋 Hi, I'm Đức Thắng
 
-</div>
+### 💻 An IT Student | Backend Development Learner
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+*"Every expert was once a beginner."*
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=520&lines=No+Pain+No+Gain.)](https://git.io/typing-svg)
+
+
+
+
 </div>
 
 ---
 
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/dcthang26">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/zeztxxx">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+
+<a href="mailto:duc862488@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
