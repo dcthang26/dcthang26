@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Đức
 
-<!--
-**dcthang26/dcthang26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP
+- Laravel
+- MySQL
+- JavaScript
+- Vue
+- Git
+- Docker
+
+## 📚 Currently Learning
+
+- AWS
+- Linux
+- Docker
+- CI/CD
+
+## 📫 Contact
+
+- Email:
+- Facebook:
